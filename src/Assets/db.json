@@ -1,0 +1,50 @@
+{
+        "articles":[
+            {
+                "id":"1",
+                "title":"مقاله ی اول",
+                "desc":"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ",
+                "cat":"1کتگوری ساختگی" ,
+                "author" :"آدام گرنت" ,
+                "time": "https://www.randomnumberapi.com/api/v1.0/random?min=100&max=1000",
+                "img":"https://picsum.photos/500/500"
+            },
+            {
+                "id":"2",
+                "title":"مقاله ی دوم",
+                "desc":"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ",
+                "cat":"2کتگوری ساختگی" ,
+                "author" :"ابولفضل تاج" ,
+                "time": "https://www.randomnumberapi.com/api/v1.0/random?min=100&max=1000",
+                "img":"https://picsum.photos/500/500"
+            },
+            {
+                "id":"3",
+                "title":"مقاله ی سوم",
+                "desc":"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ",
+                "cat":"3کتگوری ساختگی" ,
+                "author" :"رابرت گرین" ,
+                "time":"https://www.randomnumberapi.com/api/v1.0/random?min=100&max=1000" ,
+                "img":"https://picsum.photos/500/500"
+            },
+            {
+                "id":"4",
+                "title":"مقاله ی چهارم",
+                "desc":"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ",
+                "cat":"4 کتگوری ساختگی" ,
+                "author" :"ویلیام کوپر" ,
+                "time": "https://www.randomnumberapi.com/api/v1.0/random?min=100&max=1000",
+                "img":"https://picsum.photos/500/500"
+            }
+        ],
+        "user":[
+            {
+                "id":"1",
+                "name":"Abolfazl Taj",
+                "age":19,
+                "adming":true
+            }
+        ]
+
+
+}
